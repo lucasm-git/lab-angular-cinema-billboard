@@ -1,0 +1,31 @@
+header, footer {
+    height: 60px;
+    text-align: center;
+    background: rgb(59, 59, 59);
+    line-height: 60px;
+    color: white;
+}
+
+h1 {
+    font-size: 2.2em;
+    font-family: "Open Sans", sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+footer {
+    width: 100vw;
+    position: fixed;
+    bottom: 0;
+}
